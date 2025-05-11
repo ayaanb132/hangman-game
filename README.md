@@ -16,4 +16,3 @@ To play the game, simply run the `hangman_student.py` script using a Python inte
 ```bash
 python hangman_student.py
 ```
-```
