@@ -17,5 +17,3 @@ To play the game, simply run the `hangman_student.py` script using a Python inte
 python hangman_student.py
 ```
 ```
-
-I will now create a file named `README.md` in your current directory with this content.
